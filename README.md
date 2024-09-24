@@ -1,6 +1,6 @@
 # Megaverse API Integration
 
-This project integrates with the Megaverse API to manage various astral objects, specifically focusing on the creation and deletion of Polyanets, Soloons, comeETHs. The API provides functionalities to create, read, update, and delete (CRUD) astral objects.
+This project integrates with the Megaverse API to manage various astral objects, specifically focusing on the creation and deletion of Polyanets, Soloons and comeETHs. The API provides functionalities to create, read, update, and delete (CRUD) astral objects.
 
 ## Overview
 The goal of this project is to facilitate the management of Polyanets within the Megaverse. This includes the ability to delete specific Polyanets based on their coordinates.
